@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_profil"
+        android:title="UPDATE PROFIL" />
+    <!--<item
+        android:id="@+id/nav_manage"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Pengaturan" />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Berbagi" />-->
+    <item
+        android:id="@+id/nav_kursi"
+        android:title="DENAH TEMPAT DUDUK" />
+
+    <group android:checkableBehavior="single">
+
+    </group>
+
+</menu>
